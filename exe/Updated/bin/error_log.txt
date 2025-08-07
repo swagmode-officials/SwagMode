@@ -1,0 +1,1 @@
+[07/08/2025 15:38:54] ERROR: Swag.exe is not running. Please start Swag.exe first

