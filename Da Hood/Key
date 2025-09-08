@@ -1,5 +1,2 @@
 -- SwagMode Key Authentication Response
--- Returns the valid authentication key for SwagMode access
--- Compatible with HttpGet requests from SwagMode authentication system
-
-SwagMode2025
+return "SwagMode2025"
